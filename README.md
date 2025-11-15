@@ -26,6 +26,11 @@ git clone https://github.com/amanabate/A2sv-webTrack-task-4.git
 
 cd <A2sv-webTrack-task-4>
 
+npm install
+
+npm run dev
+
+
 ## Project Structure
 src/
   main.tsx          # App entry point
